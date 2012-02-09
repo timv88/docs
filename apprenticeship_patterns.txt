@@ -1,0 +1,39 @@
+Apprenticeship Patterns
+------------------------------------
+Ch1 "Introduction"
+Effort is what makes or talented, failure is merely an incentive to try a different approach next time.
+We are skill-centric rather than process-centric.
+Being an Apprentice: Having the attitude that there's always a better/smarter/faster way to do what you juts did and what you're currently doing.
+Focusing on yourself and your need to grow is the essence of what it means to be an apprentice. 
+
+Ch2 "Emptying the Cup"
+Unleashing your enthusiasm is one of the relatively few responsibilities of the apprentice.
+Tomorrow I need to look stupider and feel better about it. This staying quiet and trying to guess what's going on isn't working so well.
+Show the people who ar edepending on you that the learning process is part of delivering software. Let them see you grow.
+When overwhelmed from your lack of knowledge: Retreat briefly into your competence to regain your composure. Take some time to build something that you know how to build.
+
+Ch3 "Walking the Long Road"
+For every step you take towards matery, your destination moves two steps further away. Embrace mastery as a lifelong endeavor. Learn to love the journey.
+I would describe programming as a craft, whch is kind of an art, but not a fine art. Craft means making useful objects with perhaps decorative touches. Fine art means making things purely for their beauty.
+For a craftsman to starve is a failure; he's supposed to earn a living at his craft.
+As Sennet wrote, "it is by fixing things that we often get to understand how they work"
+"Anyone who has ever seen a programmer at work..knows that programming itself, if the programmer is given the chance to do it his way, is the biggest motivation in programming." -Jerry Weinberg, Psychology of Computer Programming
+
+Ch4 "Accurate Self-Assessment"
+Your goal is to measure yoru abilities and find ways to be better than you were yesterday.
+On feeling lost: This does not mean pair programming is failing- it simply means you need to either slow things down by asking questions or endur ethe feeling of being lost and try to pick up the bits that you understand.
+The goal is to find ways to expose yourself to the daily working habits of other skilled people, and observe the ways in which they gradually refine those habits into even greater skills.
+
+Ch5 "Perpetual Learning"
+The core theme of an apprenticeship is learning and the dominant trait of a succesfful apprentice is a demonstratino of her learning abilities.
+One trait of a master craftsman is a willingness to set aside hard-won expertise in a specific domain in order to learn something new.
+Try to refactor the codebases in order to understand why the programmers made the chioces they did, and to see what the consequencies would have been if you had been writing the code.
+Eventually you'll acquire a toolbox of tricks and subtleties gleaned from other people's code. You'll be able to tackel problems that others consider impossible because they don't have access to your toolbox.
+People who can absorb knowledge directly from the code soon become much better programmers, because their teacher is every line of code written by every programmer ever born.
+Before sharing something, consider wether that lesson is yoru to share. It may be a secret, or it may harm others.
+By soliciting feedback eary, often, and effectively, you increase the probablity that you will at least be conscious of your incompetence.
+
+Ch6 "Construct your Curriculum"
+How do we spot cathedral builders? They are the ones on your team who end up doing the debugging, decompiling and reverse-engineering, and who read the specification, RFC, or standards for the technologies you use.
+Being able to read specifications as well as code means tha tnothing is hidden from you.
+Don't just take the word of someone quoting a book or article. To truly understand any ide,a you need to reconstruct the context in which it was first expressed.

@@ -1,0 +1,40 @@
+--COMMITTING & PUSHING CHANGES
+---------------
+----Commit
+git commit -a -m 'PND1337 This is my commit message'
+
+----Pushing
+git push origin [branch name]
+
+
+--FORKING
+---------------
+----Set up
+git clone git@github.com:username/projectname.git
+
+----Remotes
+git remote add [remote name] git://github.com/username/projectname.git
+
+----Update current branch from remote
+git pull [remote name]
+
+----Update local branch from remote branch
+git pull upstream [remote branchname]:[local branchname]
+
+
+--BRANCHES
+
+----Create from current branch
+git checkout -b [new branch name]
+
+----Switch
+git checkout [branch to switch to]
+
+----Merge to current branch
+git merge [branch to merge into current]
+
+----Delete
+git branch -d [branch to delete]
+
+----Delete remote branch
+git push origin :[branch to delete]

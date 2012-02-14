@@ -1,6 +1,7 @@
 Suggestions Welcome :D
 ----
 Javascript: The Good Parts
+Eloquent JavaScript
 CSS: The Definitive Guide, Third Edition
 Head First HTML5 Programming
 HTML5 For Web Designers

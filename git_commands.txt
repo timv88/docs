@@ -7,7 +7,7 @@ git clone git@github.com:username/projectname.git
 git remote add [remote name] git://github.com/username/projectname.git
 git pull [remote name] [remote branchname]:[local branchname]
 
---BRANCHES
+--BRANCHING
 git checkout -b [new branch name]
 git checkout [branch to switch to]
 git branch -d [branch to delete]
@@ -22,4 +22,8 @@ git rebase [branch to rebase to]
 git-add (after fixing conflicts during rebasing)
 git rebase --continue (continue applying patches)
 git rebase --abort (reverts to before rebasing started)
+
+--TAGGING
+git tag -a zapapa-platform-12.07.01 -m 'New tag Zapapa-Platform-12.07.01: Sprint Goals'
+git push upstream --tags
 

@@ -9,6 +9,7 @@ jQuery Novice to Ninja
 Don't Make Me Think
 RESTful Web Services
 Pro Git
+Front-end Code Standards & Best Practices http://na.isobar.com/standards/
 
 
 Read

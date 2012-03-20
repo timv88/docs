@@ -13,6 +13,10 @@ git checkout [branch to switch to]
 git branch -d [branch to delete]
 git push origin :[branch to delete]
 
+--TAGGING
+git tag zapapa-platform-12.12.02 -m 'Tag message'
+git push upstream --tags
+
 --GIT STUFF
 git merge [branch to merge into current]
 git cherry-pick [sha1 hash]

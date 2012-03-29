@@ -11,6 +11,7 @@ RESTful Web Services
 Pro Git
 Front-end Code Standards & Best Practices http://na.isobar.com/standards/
 High Performance Web Sites: Essential Knowledge for Front-End Engineers
+Essential JS Design Patterns: http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 
 Read

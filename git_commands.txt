@@ -27,3 +27,8 @@ git rebase --abort (reverts to before rebasing started)
 git tag -a zapapa-platform-12.07.01 -m 'New tag Zapapa-Platform-12.07.01: Sprint Goals'
 git push upstream --tags
 
+--CLEANING UNTRACKED FILES
+# See what files will be removed
+git clean -n
+# Force clean them
+git clena -f

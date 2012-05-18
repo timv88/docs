@@ -32,3 +32,6 @@ git push upstream --tags
 git clean -n
 # Force clean them
 git clena -f
+
+--DIFF BETWEEN BRANCHES
+git diff --name-status [branch1]..[branch2]

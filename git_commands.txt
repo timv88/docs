@@ -35,7 +35,10 @@ git push origin :refs/tags/[tag name]
 # See what files will be removed
 git clean -n
 # Force clean them
-git clena -f
+git clean -f
+# Clean untracked files and reset template files
+git clean -f && git checkout -- INC/ PHP/
+
 
 --DIFF BETWEEN BRANCHES
 git diff --name-status [branch1]..[branch2]

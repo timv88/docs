@@ -42,3 +42,6 @@ git clean -f && git checkout -- INC/ PHP/
 
 --DIFF BETWEEN BRANCHES
 git diff --name-status [branch1]..[branch2]
+
+--COMPARE BETWEEN TAGS / BRANCHES
+https://github.com/spilgames/zapapa-platform/compare/develop...homepage

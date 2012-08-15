@@ -45,3 +45,12 @@ git diff --name-status [branch1]..[branch2]
 
 --COMPARE BETWEEN TAGS / BRANCHES
 https://github.com/spilgames/zapapa-platform/compare/develop...homepage
+
+
+--FETCH ALL BRANCHES
+var output = "git push [remote]",
+    items = $('.js-filter-branches .selector-item a');
+$(items).each( function(n){
+   output += " :" + items[n].text;
+});
+copy(output);
